@@ -34,7 +34,7 @@
         "pagePath": "pages/card/card",
         "icon": "images\buyhistory.png",
         "activeIcon": "images\buyhistory.png",
-        "name": "卡片"
+        "name": "我的"
       }
     ]
   },
