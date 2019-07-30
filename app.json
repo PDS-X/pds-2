@@ -22,7 +22,7 @@
         "pagePath": "pages/index/index",
         "icon": "images\buyhistory.png",
         "activeIcon": "images\buyhistory.png",
-        "name": "首页"
+        "name": "主页"
       },
       {
         "pagePath": "pages/detail/detail",
