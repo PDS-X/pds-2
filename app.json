@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/card/card"
+  ],
+  "window": {
+    "enableWK": "YES",
+    "enableDSL": true,
+    "defaultTitle": "小程序",
+    "backgroundColor": "#F5F5F9",
+    "pullRefresh": false,
+    "allowsBounceVertical": true,
+    "titleBarColor": "#fff"
+  },
+  "tabBar": {
+    "textColor": "#dddddd",
+    "selectedColor": "#49a9ee",
+    "backgroundColor": "#ffffff",
+    "items": [
+      {
+        "pagePath": "pages/index/index",
+        "icon": "images\buyhistory.png",
+        "activeIcon": "images\buyhistory.png",
+        "name": "首页"
+      },
+      {
+        "pagePath": "pages/detail/detail",
+        "icon": "images\buyhistory.png",
+        "activeIcon": "images\buyhistory.png",
+        "name": "买水"
+      },
+      {
+        "pagePath": "pages/card/card",
+        "icon": "images\buyhistory.png",
+        "activeIcon": "images\buyhistory.png",
+        "name": "卡片"
+      }
+    ]
+  },
+  "debug": true
+  
+}
+
